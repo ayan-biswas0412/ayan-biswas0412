@@ -12,7 +12,7 @@ I am an enthusiastic learner who loves to solve math puzzles also i build websit
 Here are some quick facts of me:
 
 - 🔭 I’m currently working on Node.js Backend for a financial app
-- 🌱 I’m currently learning Whatsapp Business API and Machine Learning
+- 🌱 I’m currently learning Whatsapp Business API and Machine Learning ans LAteX
 - 👯 I’m looking to collaborate on any kind of projects
 - 🤔 I’m looking for help with any individual or Start-Ups
 - 💬 Ask me about anything but except any free source code
