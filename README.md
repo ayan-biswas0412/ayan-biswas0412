@@ -1,7 +1,8 @@
 # Hi, I'm Ayan, an Electronics enthusiast and learn to develop web Technologies. 👋🏾👨‍🎓‍💻
 ## Hello World :sparkling_heart: 👋🏽 
 ### I :heart: GitHub :octocat:
-![](https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=30)
+</p>
+<p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" /></p>
 <!--
 **ayan-biswas0412/ayan-biswas0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
