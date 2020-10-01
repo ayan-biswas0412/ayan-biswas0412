@@ -1,7 +1,13 @@
 # Hi, I'm Ayan, an Electronics enthusiast and learn to develop web Technologies. 👋🏾👨‍🎓‍💻
 ## Hello World :sparkling_heart: 👋🏽 
 ### I :heart: GitHub :octocat:
-</p>
+
+Currently I am Pursuing my Bachelors in Electronics and Telecommunication Engineering at Jadavpur University,Kolkata ,IN.I will be graduating in the year 2023 (expected).
+I enjoy to solve puzzles and also I am currently in my bachelors level so i love to make small electronics circuits also and also I built this websites in my leisure. I can use the power of Cloud Computing (particularly GCP) to deploy and scale software and IT infrastructure at scale. Have worked with React, JavaScript, CSS, HTML5, PHP, MySQL, UI/UX design and many other tools to create cool and good websites.I also have interset for the various upcoming defence technologies that are been adopted by govt for defense Sectors.
+I am an enthusiastic learner who loves to solve math puzzles also i build websites and cool stuffs at my leisure times
+
+
+
 <p align="center"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" /></p>
 <!--
 **ayan-biswas0412/ayan-biswas0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +22,3 @@ Here are some quick facts of me:
 - 📫 How to reach me: connect me at ayanbiswas184@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't love to code
-
-Currently I am Pursuing my Bachelors in Electronics and Telecommunication Engineering at Jadavpur University,Kolkata ,IN.I will be graduating in the year 2023 (expected).
-I enjoy to solve puzzles and also I am currently in my bachelors level so i love to make small electronics circuits also and also I built this websites in my leisure. I can use the power of Cloud Computing (particularly GCP) to deploy and scale software and IT infrastructure at scale. Have worked with React, JavaScript, CSS, HTML5, PHP, MySQL, UI/UX design and many other tools to create cool and good websites.I also have interset for the various upcoming defence technologies that are been adopted by govt for defense Sectors.
-I am an enthusiastic learner who loves to solve math puzzles also i build websites and cool stuffs at my leisure times
