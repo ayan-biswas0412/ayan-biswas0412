@@ -5,12 +5,26 @@
 
 ## Hello World :sparkling_heart: 👋🏽 
 ### I :heart: GitHub :octocat:
-![](https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=30)
+
 
 
 <!--
 **ayan-biswas0412/ayan-biswas0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<p align="center">
+  <samp>
+    Hi, I'm Ayan! 👋 <br>
+    🔥 19 Year's Old Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, C++ ... <br>
+    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :email:	ayanbiswas184@gmail.com <br>
+    :art: Portfolio: https://ayan-biswas0412.github.io <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/ayanbiswas-juetceug/ <br>
+  </samp>
+</p>
+
+![](https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=30)
+
 Here are some quick facts of me:
 
 - 🔭 I’m currently working on Node.js Backend for a financial app
@@ -22,6 +36,4 @@ Here are some quick facts of me:
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't love to code
 
-Currently I am Pursuing my Bachelors in Electronics and Telecommunication Engineering at Jadavpur University,Kolkata ,IN.I will be graduating in the year 2023 (expected).
-I enjoy to solve puzzles and also I am currently in my bachelors level so i love to make small electronics circuits also and also I built this websites in my leisure. I can use the power of Cloud Computing (particularly GCP) to deploy and scale software and IT infrastructure at scale. Have worked with React, JavaScript, CSS, HTML5, PHP, MySQL, UI/UX design and many other tools to create cool and good websites.I also have interset for the various upcoming defence technologies that are been adopted by govt for defense Sectors.
-I am an enthusiastic learner who loves to solve math puzzles also i build websites and cool stuffs at my leisure times
+
