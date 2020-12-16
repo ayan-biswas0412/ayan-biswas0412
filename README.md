@@ -6,8 +6,6 @@
 ## Hello World :sparkling_heart: 👋🏽 
 ### I :heart: GitHub :octocat:
 
-
-
 <!--
 **ayan-biswas0412/ayan-biswas0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,10 +14,10 @@
     Hi, I'm Ayan! 👋 <br>
     🔥 19 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, C++ ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	ayanbiswas184@gmail.com <br>
-    :art: Portfolio: https://ayan-biswas0412.github.io <br>
-    :briefcase: LinkedIn: https://www.linkedin.com/in/ayanbiswas-juetceug/ <br>
+    :notebook: I’m currently learning DS and Algo... 😊  <br>
+    :email:	<a href="mailto:ayanbiswas184@email.com">ayanbiswas184@gmail.com</a> <br>
+    :art: Portfolio: <a href="https://bit.ly/3gRzXZ1">https://ayan-biswas0412.github.io</a> <br>
+    :briefcase: LinkedIn: <a href="https://bit.ly/37npj92">https://www.linkedin.com/in/ayanbiswas-juetceug/</a>  <br>
   </samp>
 </p>
 
@@ -28,12 +26,10 @@
 Here are some quick facts of me:
 
 - 🔭 I’m currently working on Node.js Backend for a financial app
-- 🌱 I’m currently learning Whatsapp Business API and Machine Learning ans LAteX
+- 🌱 I’m currently learning Whatsapp Business API and Machine Learning and LaTeX
 - 👯 I’m looking to collaborate on any kind of projects
 - 🤔 I’m looking for help with any individual or Start-Ups
 - 💬 Ask me about anything but except any free source code
-- 📫 How to reach me: connect me at ayanbiswas184@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't love to code
-
 
