@@ -32,4 +32,3 @@ Here are some quick facts of me:
 - 💬 Ask me about anything but except any free source code
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't love to code
-
