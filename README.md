@@ -22,13 +22,12 @@
     :briefcase: LinkedIn: https://www.linkedin.com/in/ayanbiswas-juetceug/ <br>
   </samp>
 </p>
-
-![](https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=30)
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" /></p>
 
 Here are some quick facts of me:
 
 - 🔭 I’m currently working on Node.js Backend for a financial app
-- 🌱 I’m currently learning Whatsapp Business API and Machine Learning ans LAteX
+- 🌱 I’m currently learning Whatsapp Business API and Machine Learning and LAteX
 - 👯 I’m looking to collaborate on any kind of projects
 - 🤔 I’m looking for help with any individual or Start-Ups
 - 💬 Ask me about anything but except any free source code
