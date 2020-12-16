@@ -1,7 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
 # Hi, I'm Ayan, an Electronics enthusiast and a FullStack Developer. 👋🏾👨‍🎓‍💻
-
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
+<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" /></p>
 
 ## Hello World :sparkling_heart: 👋🏽 
 ### I :heart: GitHub :octocat:
@@ -22,7 +21,7 @@
     :briefcase: LinkedIn: https://www.linkedin.com/in/ayanbiswas-juetceug/ <br>
   </samp>
 </p>
-<p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" /></p>
+
 
 Here are some quick facts of me:
 
@@ -34,5 +33,8 @@ Here are some quick facts of me:
 - 📫 How to reach me: connect me at ayanbiswas184@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't love to code
+
+
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
 
 
