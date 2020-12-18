@@ -25,14 +25,14 @@
 
 Here are some quick facts of me:
 
-- 🔭 I’m currently working on Node.js Backend for a financial app
-- 🌱 I’m currently learning Whatsapp Business API and Machine Learning and LAteX
-- 👯 I’m looking to collaborate on any kind of projects
+- 🔭 I’m currently working on a npm package [*digital-logic-gate*](https://www.npmjs.com/package/digital-logic-gate)
+- 🌱 I’m currently learning Fundamentals of Data Structure and Algorithms and Javascript based electronics
+- 👯 I’m looking to collaborate on any kind of projects 
 - 🤔 I’m looking for help with any individual or Start-Ups
 - 💬 Ask me about anything but except any free source code
 - 📫 How to reach me: connect me at ayanbiswas184@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I don't love to code
+- ⚡ Fun fact: I don't love to just code, rather i love projects.
 
 
 <p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
