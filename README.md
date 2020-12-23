@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=ayan-biswas0412)
-# Hi, I'm Ayan, an Electronics enthusiast and a FullStack Developer. 👋🏾👨‍🎓‍💻
+# Hi, I'm Ayan,a FullStack Developer and an Electronics enthusiast. 👋🏾👨‍🎓‍💻
 <p align="center"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" /></p>
 
 ## Hello World :sparkling_heart: 👋🏽 
