@@ -56,7 +56,7 @@
 
 <p align="center">
 <a href="mailto:ayanbiswas184@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ayanbiswas-juetceug/"><img height="30" src="https://github.com/Swadesh13/Swadesh13/blob/main/icon/linkedin.png?raw=true" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ayanbiswas-juetceug/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 </p>
 
 Here are some quick facts of me:
