@@ -61,10 +61,8 @@
 
 Here are some quick facts of me:
 
-- 🔭 I’m currently working on a npm package [*digital-logic-gate*](https://www.npmjs.com/package/digital-logic-gate)
 - 🌱 I’m currently learning Fundamentals of Data Structure and Algorithms and Javascript based electronics
 - 👯 I’m looking to collaborate on any kind of projects 
-- 🤔 I’m looking for help with any individual or Start-Ups
 - 💬 Ask me about anything but except any free source code
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I don't love to just code, rather i love projects.
