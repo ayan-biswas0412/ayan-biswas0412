@@ -48,7 +48,7 @@
     🔥 19 Year's Old Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, C++ ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :art: Portfolio: https://ayan-biswas0412.github.io <br>
+    :art: Portfolio: https://ayanbiswas.in <br>
   </samp>
 </p>
   
