@@ -59,14 +59,5 @@
 <a href="https://www.linkedin.com/in/ayanbiswas-juetceug/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 </p>
 
-Here are some quick facts of me:
-
-- 🌱 I’m currently learning Fundamentals of Data Structure and Algorithms and Javascript based electronics
-- 👯 I’m looking to collaborate on any kind of projects 
-- 💬 Ask me about anything but except any free source code
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I don't love to just code, rather i love projects.
-
-<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
-
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.com/paypalme/ayanbiswas184) 
 
