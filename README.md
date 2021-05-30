@@ -11,7 +11,7 @@
 ### 🔭 About Me
 
 * Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University.Please visit my [website](https://ayanbiswas.in) to find more details about me.
-* Participant in Google Summer of Code 2021 with [CircuitVerse](https://github.com/CircuitVerse)
+* Google Summer of Code 2021 Participant with [CircuitVerse](https://github.com/CircuitVerse)
 
 
 
