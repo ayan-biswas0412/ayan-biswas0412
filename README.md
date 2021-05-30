@@ -10,7 +10,7 @@
 
 ### 🔭 About Me
 
-* Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University.Please visit my [website](https://ayanbiswas.in) to find more details about me.
+* Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University. Please visit my [website](https://ayanbiswas.in) to find more details about me.
 * Google Summer of Code 2021 Participant with [CircuitVerse](https://github.com/CircuitVerse)
 
 
@@ -22,7 +22,7 @@
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" />
 </p>
 
-### 📫 Reach me at
+### 📫 Connect with me
 
 <p align="center">
 <a href="mailto:ayanbiswas184@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
