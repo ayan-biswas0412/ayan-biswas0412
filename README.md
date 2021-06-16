@@ -33,3 +33,4 @@
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.com/paypalme/ayanbiswas184) 
 
+![Ayan Biswas](./bottom_header.svg)
