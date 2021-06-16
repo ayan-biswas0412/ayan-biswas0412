@@ -10,9 +10,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
 
 ### 🔭 About Me
-
-* Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University. Please visit my [website](https://ayanbiswas.in) to find more details about me.
 * Google Summer of Code 2021 Participant with [CircuitVerse](https://github.com/CircuitVerse)
+* Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University. Please visit my [website](https://ayanbiswas.in) to find more details about me.
 
 
 
