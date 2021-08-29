@@ -16,7 +16,6 @@
 
 
 ## Hello World :sparkling_heart: 👋🏽 
-### I :heart: GitHub :octocat:
   
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=ayan-biswas0412&show_icons=true&line_height=20&theme=tokyonight" />
