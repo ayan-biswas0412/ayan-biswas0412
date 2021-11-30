@@ -9,6 +9,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/godot/godot.png"></code>
 
+[**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
+
 ### 🔭 About Me
 * Google Summer of Code 2021 Participant with [CircuitVerse](https://summerofcode.withgoogle.com/projects/#6282924346834944)
 * Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University. Please visit my [website](https://ayanbiswas.in) to find more details about me.
