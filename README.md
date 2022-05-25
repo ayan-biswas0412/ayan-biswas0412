@@ -29,6 +29,6 @@
 <a href="mailto:ayanbiswas184@gmail.com"><img alt="Gmail" height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ayanbiswas0412/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
 
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://www.paypal.com/paypalme/ayanbiswas184) 
+[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/) [![Donate](https://img.shields.io/badge/Support-%24-blue)](https://github.com/sponsors/ayan-biswas0412)
 
 ![Ayan Biswas](./bottom_header.svg)
