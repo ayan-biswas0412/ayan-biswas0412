@@ -12,10 +12,12 @@
 [**You like what you see? Nominate me for GitHub Stars!**](https://stars.github.com/nominate/)
 
 ### 🔭 About Me
+* PhD Student at Elmore Family School of Electrical and Computer Engineering, Purdue University, USA - August 2024 - Present.
+* IC Design Engineer - Ixana.ai (Quasistatics Inc.) - June 2023 - July 2024.
+* Bachelor of Engineering from the Department of Electronics and Telecommunication Engineering at Jadavpur University - May 2023. Please visit my [website](https://ayanbiswas.in) to find more details about me.
 * MITACS Globalink Research Intern 2022 at [BiswasSoilLab](https://github.com/BiswasSoilLab), [University of Guelph](https://www.uoguelph.ca/), Canada.
 * Google Summer of Code 2022 Mentor at [CircuitVerse](https://circuitverse.org/)
 * Google Summer of Code 2021 Participant with [CircuitVerse](https://summerofcode.withgoogle.com/projects/#6282924346834944)
-* Undergraduate student at Department of Electronics and Telecommunication Engineering at Jadavpur University. Please visit my [website](https://ayanbiswas.in) to find more details about me.
 
 
 
